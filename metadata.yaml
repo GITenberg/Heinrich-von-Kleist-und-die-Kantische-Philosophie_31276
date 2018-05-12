@@ -1,0 +1,28 @@
+_repo: Heinrich-von-Kleist-und-die-Kantische-Philosophie_31276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cassirer, Ernst
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '35115'
+    url: http://www.gutenberg.org/2009/agents/35115
+    wikipedia: http://de.wikipedia.org/wiki/Ernst_Cassirer
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31276'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kleist, Heinrich von, 1777-1811'
+- !lcc 'PT'
+title: Heinrich von Kleist und die Kantische Philosophie
+url: http://www.gutenberg.org/ebooks/31276
